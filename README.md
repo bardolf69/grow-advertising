@@ -1,4 +1,6 @@
-# grow-advertising
+# Grow Advertising Library
+
+This is a basic library to enable ECMAScript Module support for Grow Advertising (https://growadvertising.com/).
 
 Copyright (c) 2023 Aaron Harker
 

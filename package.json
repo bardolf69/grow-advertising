@@ -1,0 +1,23 @@
+{
+  "name": "@bardolf69/grow-advertising",
+  "version": "1.0.0",
+  "description": "An ECMAScript Module for displaying Grow Advertising ads",
+  "main": "src/GrowJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bardolf69/grow-advertising.git"
+  },
+  "keywords": [
+    "Grow",
+    "Advertising"
+  ],
+  "author": "Aaron Harker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bardolf69/grow-advertising/issues"
+  },
+  "homepage": "https://github.com/bardolf69/grow-advertising#readme"
+}

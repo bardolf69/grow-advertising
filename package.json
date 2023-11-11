@@ -11,11 +11,10 @@
     "url": "git+https://github.com/bardolf69/grow-advertising.git"
   },
   "keywords": [
-    "Grow",
-    "Advertising"
+    "Grow Advertising"
   ],
   "author": "Aaron Harker",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bardolf69/grow-advertising/issues"
   },
